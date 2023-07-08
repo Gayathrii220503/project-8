@@ -1,0 +1,30 @@
+
+body{
+    background-color: aqua;
+    background-repeat: no-repeat;
+    margin: 500px ;
+    border: 2px solid aqua;
+}
+.amula{
+    background-color: gray;
+    margin-trim: 200px;
+}
+.Uma{
+    background-color: green;
+    padding-inline: 60px;
+}
+.sasi{
+    padding-inline: 55px;
+}
+.a,.b,.e,.h{
+    padding-right: 133px;
+}
+.d{
+    padding-right: 80px;
+}
+.g{
+    padding-right: 116px;
+}
+.c,.f{
+    padding-right: 115px;
+}
